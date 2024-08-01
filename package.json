@@ -1,5 +1,5 @@
 {
-  "name": "strapi-plugin-import-export-entries",
+  "name": "@arisonadim/strapi-plugin-import-export-entries",
   "version": "1.23.1",
   "description": "Import/Export data from and to your database in just few clicks.",
   "strapi": {
@@ -52,6 +52,7 @@
     "@strapi/strapi": "^4.10.5",
     "@types/fs-extra": "^11.0.1",
     "@types/jest": "^29.5.8",
+    "@types/node": "^18.15.11",
     "@types/node-fetch": "^2.6.3",
     "better-sqlite3": "^9.1.1",
     "eslint": "^8.23.0",
